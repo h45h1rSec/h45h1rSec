@@ -1,4 +1,4 @@
-# Hello fellas,
+# WHOAMI,
 
 ## Introduction
 
@@ -9,19 +9,6 @@
 - 🌐 Exploring various cybersecurity domains, including network security, ethical hacking, and incident response.
 - 💼 Actively seeking opportunities for internships and hands-on experiences in the cybersecurity field.
 
-## Projects
-
-### [Project Name 1]
-
-- Description: Brief description of the project.
-- Technologies Used: List of technologies, tools, and languages used.
-- [Link to Project Repository or Demo]
-
-### [Project Name 2]
-
-- Description: Brief description of the project.
-- Technologies Used: List of technologies, tools, and languages used.
-- [Link to Project Repository or Demo]
 
 ## Skills
 
