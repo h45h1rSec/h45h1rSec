@@ -2,7 +2,7 @@
 
 ## Introduction
 
-👋 Hello! I'm [Your Name], a passionate cybersecurity student enthusiastic about building a career in the ever-evolving world of cybersecurity. This repository serves as a portfolio to showcase my journey, projects, and contributions in the field.
+👋 Hello! I'm Hashir, a passionate cybersecurity student enthusiastic about building a career in the ever-evolving world of cybersecurity. This repository serves as a portfolio to showcase my journey, projects, and contributions in the field.
 
 ## About Me
 
