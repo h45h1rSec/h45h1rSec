@@ -27,7 +27,10 @@
 
 ## Connect with Me
 
-- Twitter: [@h45h1r_sec](https://twitter.com/h45h1r_sec) 
+- Twitter: [@h45h1r_sec](https://twitter.com/h45h1r_sec)
+- Instagram: [@h45h1r_sec](https://www.instagram.com/h45h1r_sec/)
+- Facebook: [@h45h1r_sec](https://www.facebook.com/H45H1RSEC/)
+- Youtube: [@h45h1r_sec](https://www.youtube.com/@H45H1R_Sec)
 - Website: [Hashirsec.com](https://www.hashirsec.com)
 
 ## Contributing
